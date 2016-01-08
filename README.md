@@ -1,4 +1,4 @@
-[SeAT](http://i.imgur.com/aPPOxSK.png)
+![SeAT](http://i.imgur.com/aPPOxSK.png)
 # extservices
 
 ## This repository contains the SeAT External Services
