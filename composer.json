@@ -8,7 +8,7 @@
             "email": "benjamin.hausherr+seat@gmail.com"
         }
 	],
-	"minimum-stability": "dev"
+	"minimum-stability": "dev",
     "require": {
         "fkubis/teamspeak-php-framework": "dev-master",
         "gidkom/php-openfire-restapi": "dev-master",
