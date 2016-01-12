@@ -12,6 +12,6 @@
     "require": {
         "fkubis/teamspeak-php-framework": "dev-master",
         "gidkom/php-openfire-restapi": "dev-master",
-        "team-reflex/discord-php": "^3.0",
+        "team-reflex/discord-php": "^3.0"
     },
 }
